@@ -1,0 +1,4 @@
+# Packaging the App ng files in the war
+"mvn process-resources" can be used to copy the app-ng/dist
+folder contents in the app-ng-dist folder.
+The maven-war-plugin is used to include those files into the generate war.

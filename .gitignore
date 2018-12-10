@@ -1,0 +1,13 @@
+*.launch
+*.sublime-workspace
+.DS_Store
+.c9/
+.classpath
+.project
+.settings/
+/.idea
+Thumbs.db
+/app-jee/target/
+/app-jee/app-ng-dist/
+/target/
+/app-ng/target/
